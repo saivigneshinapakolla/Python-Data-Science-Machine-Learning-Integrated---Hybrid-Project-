@@ -82,7 +82,3 @@ This project provided a valuable learning experience in data science and machine
 - **Expand the Dataset:** Use larger and more diverse datasets to enhance the robustness of the models.
 - **Advanced Models:** Explore advanced machine learning techniques such as deep learning.
 - **Deployment:** Deploy the models using web frameworks to make them accessible to a wider audience.
-
----
-
-By using this report, you can provide a comprehensive overview of your project on GitHub, making it easy for others to understand and follow your work.
