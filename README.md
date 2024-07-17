@@ -50,11 +50,6 @@ This project involves analyzing a dataset using Python's powerful data science l
 - **Interactive Dashboards:** Dashboards were created using Plotly and Dash to present the findings interactively.
 - **Final Report:** A comprehensive report was generated to summarize the project, including key insights and recommendations.
 
-## Results
-- **Model Performance:** The final model achieved an accuracy of [insert accuracy], precision of [insert precision], recall of [insert recall], and F1-score of [insert F1-score].
-- **Key Insights:** [Briefly describe key insights from the analysis]
-- **Recommendations:** [Provide any recommendations based on the findings]
-
 ## Conclusion
 This project provided a valuable learning experience in data science and machine learning. Through practical application, I developed skills in data cleaning, EDA, feature engineering, model development, and data visualization. The project highlights the importance of a systematic approach to data analysis and the power of Python's data science ecosystem.
 
